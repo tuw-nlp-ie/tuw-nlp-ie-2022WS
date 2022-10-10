@@ -31,7 +31,7 @@ Date|Topic| |
 12/09/2022 | Summarization | |
 12/16/2022 | Annotation basics and challenges | |
 1/13/2023 | Question Answering and chatbots | |
-1/20/2023 | Project presentations (12.00 - 16.00) | Deadline for project presentations |
+1/20/2023 | Project presentations (13.00 - 17.00) | Deadline for project presentations |
 1/27/2023 | | Deadline for final submission |
 
 
