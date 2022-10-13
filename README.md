@@ -38,5 +38,8 @@ Date|Topic| |
 
 ### Project
 
-Coming soon
+See the [project description](project/NLP_IE2021_Exercise.pdf) for a detailed
+description of the project exercise. See also the [template
+repository](https://github.com/tuw-nlp-ie/project-2022WS) that you will be using on
+GitHub Classrooms.
 
