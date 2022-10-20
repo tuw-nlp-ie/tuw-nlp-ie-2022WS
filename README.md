@@ -21,7 +21,7 @@ Fridays, 13.15 - 14.45, Room EI 11
 Date|Topic| |
 ----|-----|--|
 10/7/2022 | [Introduction](lectures/00_Introduction) | |
-10/14/2022 | Text processing | |
+10/14/2022 | [Text processing](lectures/01_Text_processing) | |
 10/21/2022 | Text classification | |
 10/28/2022 | Deep learning for NLP I. | |
 11/4/2022 |  Deep learning for NLP II. | |
@@ -37,8 +37,7 @@ Date|Topic| |
 
 
 ### Project
-
-See the [project description](project/NLP_IE2021_Exercise.pdf) for a detailed
+See the [project description](project/NLP_IE_2022WS_Exercise.pdf) for a detailed
 description of the project exercise. See also the [template
 repository](https://github.com/tuw-nlp-ie/project-2022WS) that you will be using on
 GitHub Classrooms. See TUWEL for the group registration tool and the topic selection
