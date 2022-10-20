@@ -3,7 +3,7 @@
 
 Fridays, 13.15 - 14.45, Room EI 11
 
-[TUWEL page](https://tuwel.tuwien.ac.at/course/view.php?idnumber=194093-2021W)
+[TUWEL page](https://tuwel.tuwien.ac.at/course/view.php?id=51976)
 
 [TISS page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?courseNr=194093&semester=2022W)
 
