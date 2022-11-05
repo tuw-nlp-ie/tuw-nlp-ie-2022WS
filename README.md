@@ -24,7 +24,7 @@ Date|Topic| |
 10/14/2022 | [Text processing](lectures/01_Text_processing) | |
 10/21/2022 | [Text classification](lectures/02_Text_classification) | |
 10/28/2022 | [Deep learning for NLP I.](lectures/03_DL_NLP) | |
-11/4/2022 |  Deep learning for NLP II. | |
+11/4/2022 |  [Deep learning for NLP II.](lectures/04_DL_NLP) | |
 11/11/2022 | Deep learning - practical lesson | Deadline for project milestone 1|
 11/18/2022 | Syntax: constituency and dependency | |
 11/25/2022 | Semantics: overview | |
