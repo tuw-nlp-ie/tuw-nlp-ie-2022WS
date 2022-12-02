@@ -28,7 +28,7 @@ Date|Topic| |
 11/11/2022 | [Deep learning - practical lesson](lectures/05_DL_PR) | Deadline for project milestone 1|
 11/18/2022 | [Syntax: constituency and dependency](lectures/06_Syntax) | |
 11/25/2022 | [Semantics: overview](lectures/07_Semantics) | |
-12/02/2022 | Information Extraction | Deadline for project milestone 2|
+12/02/2022 | [Information Extraction](lectures/08_Information_extraction) | Deadline for project milestone 2|
 12/09/2022 | Summarization | |
 12/16/2022 | Annotation basics and challenges | |
 1/13/2023 | Question Answering and chatbots | |
