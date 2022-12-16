@@ -30,7 +30,7 @@ Date|Topic| |
 11/25/2022 | [Semantics: overview](lectures/07_Semantics) | |
 12/02/2022 | [Information Extraction](lectures/08_Information_extraction) | Deadline for project milestone 2|
 12/09/2022 | [Summarization](lectures/09_Summarization) | |
-12/16/2022 | Annotation basics and challenges | |
+12/16/2022 | [Annotation basics and challenges](lectures/10_Annotation) | |
 1/13/2023 | Question Answering and chatbots | |
 1/20/2023 | Project presentations (13.00 - 17.00) | Deadline for project presentations |
 1/27/2023 | | Deadline for final submission |
